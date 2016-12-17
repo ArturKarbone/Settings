@@ -42,5 +42,5 @@ choco install skype -y
 choco install telegram -y
 
 :: Utilities
-REM choco install cmder -y
+choco install cmder -y
 
