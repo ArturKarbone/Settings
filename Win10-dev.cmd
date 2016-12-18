@@ -25,6 +25,7 @@ choco install visualstudio2015community -y
 :: DB
 choco install sqlserverlocaldb -y --allow-empty-checksums
 choco install sql-server-management-studio -y
+choco install sql-server-express -y
 
 :: Front end
 choco install nodejs.install -y
