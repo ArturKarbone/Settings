@@ -44,4 +44,6 @@ choco install telegram -y
 
 :: Utilities
 choco install cmder -y
+choco install kindle -y
+choco install sendtokindle -y
 
